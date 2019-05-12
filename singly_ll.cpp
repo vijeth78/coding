@@ -137,3 +137,15 @@ int main(){
     return 0 ; 
 }
 
+/*
+----------Output------------
+Dislay nodes in list 	10 20 30 40 
+insert start 	5 10 20 30 40 
+insert pos 2 	5 10 105 20 30 40 
+insert pos 4 	5 10 105 20 110 30 40 
+delete pos 2 	5 10 20 110 30 40 
+delete first 	10 20 110 30 40 
+delete last 	10 20 110 30 
+
+*/
+
