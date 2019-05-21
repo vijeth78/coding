@@ -2,7 +2,7 @@
 import random
 import sys
 import os
-'''
+
 
 print("Hello Wor ld")
 print(17//4);
@@ -121,4 +121,4 @@ fh_text = fh.read()
 print(fh_text)
 fh.close()
 #.write, .remove
-'''
+
